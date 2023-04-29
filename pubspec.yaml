@@ -1,0 +1,48 @@
+name: quiz
+description: A quiz app in flutter.
+version: 1.1.0
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  html_unescape: any
+  http: ^0.13.5
+  sleek_circular_slider: ^2.0.1
+  material_segmented_control: ^4.2.0
+  flutter_bloc: ^8.1.2
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/animals.webp
+    - assets/images/anime.webp
+    - assets/images/art.webp
+    - assets/images/bgames.webp
+    - assets/images/books.webp
+    - assets/images/cartoon.webp
+    - assets/images/celebrities.webp
+    - assets/images/comics.webp
+    - assets/images/computers.webp
+    - assets/images/film.webp
+    - assets/images/gadgets.webp
+    - assets/images/games.webp
+    - assets/images/geography.webp
+    - assets/images/history.webp
+    - assets/images/knowledge.webp
+    - assets/images/mathematics.webp
+    - assets/images/music.webp
+    - assets/images/mythology.webp
+    - assets/images/politics.webp
+    - assets/images/science.webp
+    - assets/images/sports.webp
+    - assets/images/television.webp
+    - assets/images/theatres.webp
+    - assets/images/vehicles.webp
