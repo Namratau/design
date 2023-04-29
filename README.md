@@ -10,4 +10,6 @@ As the screen size grows or shrinks, the width of the card changes to occupy the
 Ad the screen size grows or shrinks, the width of the card changes to occupy the same poportion of the screen. Furthermore, the green-area inside it also changes. Also note that, even though the size of the card is changing, the grey-area still maintains its size and remains at the top-center of the card.
 
 ## Short Demo
-![](https://github.com/Coding-Ninja-I/ResponsiveDesign/blob/main/Task.gif)
+![image](https://user-images.githubusercontent.com/91458749/235299067-ea16964d-2e84-45d4-94e5-4de725b1f4c0.png)
+
+
