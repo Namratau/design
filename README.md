@@ -14,3 +14,9 @@ Ad the screen size grows or shrinks, the width of the card changes to occupy the
 
 ![image](https://user-images.githubusercontent.com/91458749/235299295-c4bbb044-97d6-40ea-b896-4c0666aed6b1.png)
 
+
+### Install
+
+Visit the web app from [here] (http://localhost:42939/#/)
+
+Or download the *.apk* file from [here] (file:///D:/quiz/build/app/outputs/flutter-apk/app-release.apk)      
