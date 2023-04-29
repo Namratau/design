@@ -12,4 +12,5 @@ Ad the screen size grows or shrinks, the width of the card changes to occupy the
 ## Short Demo
 ![image](https://user-images.githubusercontent.com/91458749/235299067-ea16964d-2e84-45d4-94e5-4de725b1f4c0.png)
 
+![image](https://user-images.githubusercontent.com/91458749/235299295-c4bbb044-97d6-40ea-b896-4c0666aed6b1.png)
 
